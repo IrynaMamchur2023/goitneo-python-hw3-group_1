@@ -224,6 +224,7 @@ def show_birthdays(args, book):
     book.get_birthdays_per_week()
 
 
+
 def main():  
     book = AddressBook()
     print("Welcome to the assistant bot!")
